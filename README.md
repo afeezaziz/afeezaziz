@@ -67,6 +67,15 @@ The *real* magic happens when we combine the power of crypto and AI. Imagine:
 
 I'm not just building for today; I'm building for this future. I'm actively seeking collaborators, partners, and fellow visionaries who share this passion.
 
+## Contributions to AI & Crypto
+
+*   **Playgirl AI:** [Link](https://github.com/playgirlAI)
+*   **Cerebro Foundation:** [Link](https://github.com/CerebroFoundation)
+*   **TreeRoot BTC:** [Link](https://github.com/TreeRootBTC)
+*   **Spectrum Markets:** [Link](https://github.com/SpectrumMarkets)
+*   **Leviathan Exchange**: [Link](https://github.com/LeviathanExchange)
+
+
 ## Let's Build the Future, Together!
 
 If you're as excited about the convergence of Web3 and AI as I am, I'd love to connect! Reach out to me on Twitter [@AfeezAziz](https://twitter.com/AfeezAziz). I'm also active on Stack Overflow and other Stack Exchange sites. Let's collaborate, share ideas, and build the extraordinary future we both envision.
