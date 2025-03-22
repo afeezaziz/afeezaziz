@@ -69,11 +69,11 @@ I'm not just building for today; I'm building for this future. I'm actively seek
 
 ## Contributions to AI & Crypto
 
-*   **[Playgirl AI](https://github.com/playgirlAI):** 
-*   **[Cerebro Foundation](https://github.com/CerebroFoundation):**
-*   **[TreeRoot BTC'(https://github.com/TreeRootBTC):** 
-*   **[Spectrum Markets](https://github.com/SpectrumExchange):** 
-*   **[Leviathan Exchange](https://github.com/LeviathanExchange)**: 
+*   **[Playgirl AI](https://github.com/playgirlAI):** Playgirl AI redefines virtual companionship. They're humanizing AI agents, creating responsive, evolving friends, not just bots. 
+*   **[Cerebro Foundation](https://github.com/CerebroFoundation):** Cerebro uses LLMs to decode your crypto goals, executing optimal transactions based on your intent, not just commands. Smart crypto.
+*   **[TreeRoot BTC](https://github.com/TreeRootBTC):** All-in-one Taproot Asset platform. Exchange, wallet, perpetuals, and DeFi, all powered by Bitcoin's security & Taproot.
+*   **[Spectrum Markets](https://github.com/SpectrumExchange):**  Unleash RGB Bitcoin's power. A platform for assets, DeFi, and more, all anchored to Bitcoin's robust security.
+*   **[Leviathan Exchange](https://github.com/LeviathanExchange)**: Intent-based DeFi. Bridging, AMMs, and perpetuals, simplified. Tell it your goal, Leviathan executes the optimal path.
 
 
 ## Let's Build the Future, Together!
