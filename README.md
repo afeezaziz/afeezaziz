@@ -69,11 +69,11 @@ I'm not just building for today; I'm building for this future. I'm actively seek
 
 ## Contributions to AI & Crypto
 
-*   **Playgirl AI:** [Link](https://github.com/playgirlAI)
-*   **Cerebro Foundation:** [Link](https://github.com/CerebroFoundation)
-*   **TreeRoot BTC:** [Link](https://github.com/TreeRootBTC)
-*   **Spectrum Markets:** [Link](https://github.com/SpectrumMarkets)
-*   **Leviathan Exchange**: [Link](https://github.com/LeviathanExchange)
+*   **[Playgirl AI](https://github.com/playgirlAI):** 
+*   **[Cerebro Foundation](https://github.com/CerebroFoundation):**
+*   **[TreeRoot BTC'(https://github.com/TreeRootBTC):** 
+*   **[Spectrum Markets](https://github.com/SpectrumExchange):** 
+*   **[Leviathan Exchange](https://github.com/LeviathanExchange)**: 
 
 
 ## Let's Build the Future, Together!
